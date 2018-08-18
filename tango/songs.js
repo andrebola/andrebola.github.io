@@ -156,7 +156,7 @@ $(document).ready(function(){
       range: true,
       min: 1900,
       max: 2018,
-      values: [ 1930, 1945 ],
+      values: [ 1915, 1920 ],
       slide: function( event, ui ) {
         $( "#years" ).val( ui.values[ 0 ] + " - " + ui.values[ 1 ] );
       }
