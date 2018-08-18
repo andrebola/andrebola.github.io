@@ -1,0 +1,107 @@
+<!doctype html>
+<html>
+<head>
+  <title>Network | Artists</title>
+  <meta charset='utf-8'>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css" rel="stylesheet" type="text/css" />
+  <script type="text/javascript" src="./songs.js" charset="utf-8"></script>
+  <style type="text/css">
+    body {
+      font: 10pt arial;
+    }
+    tr:nth-child(even) {background: #efefef}
+    #mynetwork {
+      width: 800px;
+      height: 800px;
+      border: 1px solid lightgray;
+      background-color:#333333;
+      display: inline-block;
+    }
+    #song-data {
+     display: inline-block;
+     vertical-align: top;
+     height: 800px;
+     width: 500px;
+    }
+    #authornetwork-container {
+      display: inline-block;
+      width: 500px;
+    }
+    #authornetwork{
+      border: 1px solid lightgray;
+      background-color:#333333;
+      height: 300px;
+    }
+    #filters {
+      width: 745px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      margin: 10px;
+      padding: 12px;
+      display: inline-block;
+      vertical-align: bottom;
+      height: 255px;
+    }
+  </style>
+</head>
+<body>
+<div id="filters">
+<h3>Filtros</h3>
+<p>
+  <label for="years">Rango de a&ntilde;os:</label>
+  <input type="text" id="years" readonly style="border:0; color:#f6931f; font-weight:bold;">
+</p>
+<div id="slider-range"></div>
+<p>
+  <label for="epochs">&Eacute;poca:</label>
+  <select id="epochs">
+    <option value="all">Todos</option>
+    <option value="0">Guardia Vieja</option>
+    <option value="1">Guardia Nueva</option>
+    <option value="2">Vanguardia</option>
+    <option value="3">Contenmpor&aacute;neo</option>
+  </select>
+</p>
+<p>
+  <label for="genres">Generos:</label>
+  <select id="genres">
+    <option value="all">Todos</option>
+  </select>
+</p>
+<p>
+  <label for="artists">Artistas:</label>
+  <select id="artists">
+    <option value="all">Todos</option>
+  </select>
+</p>
+<button id="filter">Mostrar</button>
+</div>
+<div id="authornetwork-container" ><h3>Grafo de Artistas</h3><div id="authornetwork"></div></div>
+<h3>Grafo de Canciones</h3>
+<div id="mynetwork"></div>
+<div id="song-data">
+  <div id="selected-btns" style="display:None">
+    <button id="set-filters-atrs">Centrar Filtros</button>
+    <button id="set-filters-simil">Mostrar solo Similares</button>
+    <button id="set-filters-inter">Filtrar Similares</button>
+    <button id="set-filters-union">Agregar Similares</button>
+  </div>
+  <div><strong>Nombre:</strong> <span id="song-name"></span></div>
+  <div><strong>Compuesto por:</strong> <span id="song-composers"></span></div>
+  <div><strong>Letra por:</strong><span id="song-lyricists"></span></div>
+  <div><strong>G&eacute;nero:</strong> <span id="song-genre"></span></div>  
+  <div><strong>A&ntilde;o:</strong> <span id="song-year"></span></div>  
+  <p>
+  <span><strong>Letra: </strong></span>
+  <div id="song-lyric" style="max-width: 500px; height: 410px; overflow-y: scroll;"></div>
+  <h3>Canciones más similares</h3>
+<div id=similar-songs></div>
+  </p>
+</div>
+
+</body>
+</html>
