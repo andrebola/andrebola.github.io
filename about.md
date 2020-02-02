@@ -7,8 +7,8 @@ layout: page
 <p>Since 2015 doing researcher at the <a href="http://mtg.upf.edu/research/labs/asp-lab">Music Technology Group</a> of <a href="http://upf.edu">Pompeu Fabra University</a> in Barcelona, Spain. Worked developing <a href="http://dunya.compmusic.upf.edu">Dunya</a> for the project <a href="http://compmusic.upf.edu/">Compmusic</a>, also I worked developing <a href="http://freesound.org">freesound</a> and currenty on music recommendation systems in collaboration with Kakao. </p>
 
 <p>Between 2016 and 2018 completed a master degree in Universidad de la Republica (Uruguay), the topic of the thesis is about representations of Tango lyrics. Based on a deep learning models the lyrics are transformed to a vector representation that gives a good performance of many task like genre clasification or year prediction.
-
-Since 2018 I am a phD student in the MTG, the main topic is music recommendation in the long tail using a multimodal approach.</p>
+</br>
+Since 2018 I am a PhD student in the MTG, my research is focused on the artists' side of music recommendation. I'm trying to understand how these systems affect the artists and how an ethical recommender system could be more beneficial for them.</p>
 
 <h2>Interests</h2>
 
