@@ -13,20 +13,25 @@ layout: page
 <h2>Interests</h2>
 
 <ul class="skill-list">
-	<li>Music Information Retrieval</li>
-	<li>Machine Learning</li>
-	<li>Natural Language Processing</li>
-	<li>Music Recommendation</li>
-	<li>Sound and Music Computing</li>
-	<li>Audio Analysis</li>
-	<li>Data Mining</li>
+	<li>Fairness</li>
+	<li>Bias</li>
 	<li>Recommender Systems</li>
+	<li>Music Information Retrieval</li>
+	<li>Music Recommendation</li>
+	<li>Human-Computer Interaction</li>
+	<li>Data Mining</li>
 </ul>
 
 <h2>Publications</h2>
 <ul>
-	<li><a href="http://mtg.upf.edu/biblio/author/Ferraro">List of academic publications</a></li>
-	<li><a href="https://scholar.google.es/citations?user=TRI4hHoAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
+	<li><a href="https://scholar.google.es/citations?user=TRI4hHoAAAAJ&hl=en&oi=ao">Full list of publication in Google Scholar</a></li>
+        <li>Selected publications:</li>
+	<li><a href="https://dl.acm.org/doi/10.1145/3406522.3446033">Break the Loop: Gender Imbalance in Music Recommenders</a><a href="https://github.com/andrebola/gender-recs">Code</a></li>
+	<li><a href="https://arxiv.org/abs/2104.00437">Enriched Music Representations with Multiple Cross-modal Contrastive Learning</a><a href="https://github.com/andrebola/contrastive-mir-learning">Code</a><a href="http://fonil.mtg.upf.edu/">Demo</a></li>
+	<li><a href="https://arxiv.org/abs/2102.00201">Melon Playlist Dataset: a public dataset for audio-based playlist generation and music tagging </a><a href="https://mtg.github.io/melon-playlist-dataset/">Dataset</a><a href="https://github.com/andrebola/icassp2021">Code</a></li>
+	<li><a href="https://arxiv.org/abs/2008.07226">Exploring Longitudinal Effects of Session-based Recommendations </a><a href="https://github.com/andrebola/session-rec-effect">Code</a></li>
+	<li><a href="https://arxiv.org/abs/2006.00751"> Evaluation of cnn-based automatic music tagging models</a><a href="https://github.com/minzwon/sota-music-tagging-models/">Code</a></li>
+	<li><a href=i"https://repositori.upf.edu/handle/10230/46172">Maximizing the engagement: exploring new signals of implicit feedback in music recommendations</a><a href="https://github.com/andrebola/artist-engagement">Code</a></li>
 </ul>
 
 
@@ -39,5 +44,6 @@ layout: page
 	<li><a href="https://www.linkedin.com/in/andres-ferraro/">Linkedin</a></li>
 	<li><a href="https://twitter.com/andrebola_">Twitter</a></li>
 	<li><a href="https://github.com/andrebola">Github</a></li>
+	<li><a href="https://www.researchgate.net/profile/Andres-Ferraro">ResearchGate</a></li>
 </ul>
 
