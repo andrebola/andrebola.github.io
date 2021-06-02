@@ -24,11 +24,11 @@ layout: page
 
 <h2>Publications</h2>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="102998222"></div>
 <ul>
 	<li>Full list of publication in <a href="https://scholar.google.es/citations?user=TRI4hHoAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
         <h4>Selected publications:</h4>
-	<li>Break the Loop: Gender Imbalance in Music Recommenders <a href="https://dl.acm.org/doi/10.1145/3406522.3446033">Paper</a> | <a href="https://github.com/andrebola/gender-recs">Code</a></li>
+	<li>Break the Loop: Gender Imbalance in Music Recommenders <a href="https://dl.acm.org/doi/10.1145/3406522.3446033">Paper</a> | <a href="https://github.com/andrebola/gender-recs">Code</a>
+        <div style="right: 85px;position: relative;top: -55px;" class="altmetric-embed" data-badge-type="donut" data-altmetric-id="102998222"></div></li>
 	<li>Enriched Music Representations with Multiple Cross-modal Contrastive Learning <a href="https://arxiv.org/abs/2104.00437">Paper</a> | <a href="https://github.com/andrebola/contrastive-mir-learning">Code</a> | <a href="http://fonil.mtg.upf.edu/">Demo</a></li>
 	<li>Melon Playlist Dataset: a public dataset for audio-based playlist generation and music tagging <a href="https://arxiv.org/abs/2102.00201">Paper</a> | <a href="https://mtg.github.io/melon-playlist-dataset/">Dataset</a> | <a href="https://github.com/andrebola/icassp2021">Code</a></li>
 	<li>Exploring Longitudinal Effects of Session-based Recommendations <a href="https://arxiv.org/abs/2008.07226">Papaer</a> | <a href="https://github.com/andrebola/session-rec-effect">Code</a></li>
