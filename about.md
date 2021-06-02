@@ -24,14 +24,14 @@ layout: page
 
 <h2>Publications</h2>
 <ul>
-	<li><a href="https://scholar.google.es/citations?user=TRI4hHoAAAAJ&hl=en&oi=ao">Full list of publication in Google Scholar</a></li>
+	<li>Full list of publication in <a href="https://scholar.google.es/citations?user=TRI4hHoAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
         <li>Selected publications:</li>
-	<li><a href="https://dl.acm.org/doi/10.1145/3406522.3446033">Break the Loop: Gender Imbalance in Music Recommenders</a><a href="https://github.com/andrebola/gender-recs">Code</a></li>
-	<li><a href="https://arxiv.org/abs/2104.00437">Enriched Music Representations with Multiple Cross-modal Contrastive Learning</a><a href="https://github.com/andrebola/contrastive-mir-learning">Code</a><a href="http://fonil.mtg.upf.edu/">Demo</a></li>
-	<li><a href="https://arxiv.org/abs/2102.00201">Melon Playlist Dataset: a public dataset for audio-based playlist generation and music tagging </a><a href="https://mtg.github.io/melon-playlist-dataset/">Dataset</a><a href="https://github.com/andrebola/icassp2021">Code</a></li>
-	<li><a href="https://arxiv.org/abs/2008.07226">Exploring Longitudinal Effects of Session-based Recommendations </a><a href="https://github.com/andrebola/session-rec-effect">Code</a></li>
-	<li><a href="https://arxiv.org/abs/2006.00751"> Evaluation of cnn-based automatic music tagging models</a><a href="https://github.com/minzwon/sota-music-tagging-models/">Code</a></li>
-	<li><a href=i"https://repositori.upf.edu/handle/10230/46172">Maximizing the engagement: exploring new signals of implicit feedback in music recommendations</a><a href="https://github.com/andrebola/artist-engagement">Code</a></li>
+	<li>Break the Loop: Gender Imbalance in Music Recommenders <a href="https://dl.acm.org/doi/10.1145/3406522.3446033">Paper</a>|<a href="https://github.com/andrebola/gender-recs">Code</a></li>
+	<li>Enriched Music Representations with Multiple Cross-modal Contrastive Learning <a href="https://arxiv.org/abs/2104.00437">Paper</a>|<a href="https://github.com/andrebola/contrastive-mir-learning">Code</a>|<a href="http://fonil.mtg.upf.edu/">Demo</a></li>
+	<li>Melon Playlist Dataset: a public dataset for audio-based playlist generation and music tagging <a href="https://arxiv.org/abs/2102.00201">Paper</a>|<a href="https://mtg.github.io/melon-playlist-dataset/">Dataset</a><a href="https://github.com/andrebola/icassp2021">Code</a></li>
+	<li>Exploring Longitudinal Effects of Session-based Recommendations <a href="https://arxiv.org/abs/2008.07226">Papaer</a>|<a href="https://github.com/andrebola/session-rec-effect">Code</a></li>
+	<li>Evaluation of cnn-based automatic music tagging models <a href="https://arxiv.org/abs/2006.00751">Paper</a>|<a href="https://github.com/minzwon/sota-music-tagging-models/">Code</a></li>
+	<li>Maximizing the engagement: exploring new signals of implicit feedback in music recommendations <a href="https://repositori.upf.edu/handle/10230/46172">Paper</a>|<a href="https://github.com/andrebola/artist-engagement">Code</a></li>
 </ul>
 
 
