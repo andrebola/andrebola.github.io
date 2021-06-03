@@ -37,6 +37,20 @@ layout: page
 </ul>
 
 
+<h2>Media Coverage & Impact</h2>
+<ul>
+  <li>Not OK, computer: music streaming's diversity problem - <a href="https://www.ft.com/content/fa53b5d6-0e79-4740-87ee-daaf8fc12212">Financial Times</a></li>
+  <li>Music recommendation algorithms increase gender gap by promoting fewer female artists, study suggests - <a href="https://www.independent.co.uk/life-style/gadgets-and-tech/music-recommendation-algorithms-gender-gap-b1834978.html">The Independent</a></li>
+  <li>Streaming music algorithm more likely to play male artists - <a href="https://nypost.com/2021/04/06/streaming-music-algorithm-more-likely-to-play-male-artists/">New York Post</a></li>
+  <li>Spotify's sexist algorithm prefers to recommend male musicians - <a href="https://www.thetimes.co.uk/article/spotifys-sexist-algorithm-prefers-to-recommend-male-musicians-rhdn3fqn5">The Times</a></li>
+  <li>Music recommendation algorithms are unfair to female artists, but we can change that - <a href="https://theconversation.com/music-recommendation-algorithms-are-unfair-to-female-artists-but-we-can-change-that-158016">The Conversation</a></li>
+<li>A study finds gender bias in music recommendation algorithms - <a href="https://www.upf.edu/web/focus/noticies/-/asset_publisher/qOocsyZZDGHL/content/id/244709236/maximized#.YLi2vDqxX6o">UPF news</a></li>
+<li>Capitol 19 - <a href="https://www.alacarta.cat/fetamida/capitol/fet_a_mida_30042021">Fet a Mida (Spanish)</a></li>
+<li>Trencar el bucle: desequilibri de gènere en els algoritmes de recomanació musicals - <a href="https://www.ondacero.es/emisoras/catalunya/audios-podcast/lideratges/trencar-bucle-desequilibri-genere-els-algoritmes-recomanacio-musicals_20210506609404959fdd32000133a876.html">Onda Cero (Spanish)</a></li>
+<li>Gender gap in the music industry - <a href="https://www.primaverasound.com/en/radio/shows/countdown-by-lotus/countdown-by-lotus-brecha-de-gnero-tecnolgica-ellesmusic">Primavera Sound - Countdown by Lotus (Spanish)</a></li>
+  <li>More press articles that cover my work in <a href="https://profiles.impactstory.org/u/0000-0003-1236-2503">impactstory.org</a></li>
+</ul>
+
 <h2>Contact</h2>
 <ul>
 	<li><a href="http://mtg.upf.edu/research/labs/asp-lab">MTG</a></li>
