@@ -31,7 +31,7 @@ layout: page
         <div style="right: -50px;position: relative;top: -45px;float: right;" class="altmetric-embed" data-badge-type="donut" data-altmetric-id="102998222"></div></li>
 	<li>Enriched Music Representations with Multiple Cross-modal Contrastive Learning <a href="https://arxiv.org/abs/2104.00437">Paper</a> | <a href="https://github.com/andrebola/contrastive-mir-learning">Code</a> | <a href="http://fonil.mtg.upf.edu/">Demo</a></li>
 	<li>Melon Playlist Dataset: a public dataset for audio-based playlist generation and music tagging <a href="https://arxiv.org/abs/2102.00201">Paper</a> | <a href="https://mtg.github.io/melon-playlist-dataset/">Dataset</a> | <a href="https://github.com/andrebola/icassp2021">Code</a></li>
-	<li>Exploring Longitudinal Effects of Session-based Recommendations <a href="https://arxiv.org/abs/2008.07226">Papaer</a> | <a href="https://github.com/andrebola/session-rec-effect">Code</a></li>
+	<li>Exploring Longitudinal Effects of Session-based Recommendations <a href="https://arxiv.org/abs/2008.07226">Paper</a> | <a href="https://github.com/andrebola/session-rec-effect">Code</a></li>
 	<li>Evaluation of cnn-based automatic music tagging models <a href="https://arxiv.org/abs/2006.00751">Paper</a> | <a href="https://github.com/minzwon/sota-music-tagging-models/">Code</a></li>
 	<li>Maximizing the engagement: exploring new signals of implicit feedback in music recommendations <a href="https://repositori.upf.edu/handle/10230/46172">Paper</a> | <a href="https://github.com/andrebola/artist-engagement">Code</a></li>
 </ul>
