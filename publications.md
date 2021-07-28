@@ -1,26 +1,8 @@
 ---
-title: About
+title: Publications
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
-
-<p>Since 2015 I am doing research at the <a href="http://mtg.upf.edu/research/labs/asp-lab">Music Technology Group</a> of <a href="http://upf.edu">Pompeu Fabra University</a> in Barcelona, Spain. I worked developing <a href="http://dunya.compmusic.upf.edu">Dunya</a> for the project <a href="http://compmusic.upf.edu/">Compmusic</a>, I also worked developing <a href="http://freesound.org">freesound</a> and currently I am working on music recommendation systems in collaboration with <a href="https://www.kakaocorp.com/?lang=en">Kakao</a>. </p>
-
-<p>Between 2016 and 2018 I completed a master degree in Universidad de la Republica (Uruguay), the topic of my thesis is about lyrics representations of Tango music. Based on deep learning models the lyrics are transformed into a vector representation that gives a good performance on many tasks like genre classification or year prediction.</p>
-
-<p>Since 2018 I am a PhD student in the MTG, my research is focused on studying the impact of music recommendations from the artists' side. Trying to understand how these systems affect the artists and how an ethical recommender system could be more beneficial for them.</p>
-
-<h2>Interests</h2>
-
-<ul class="skill-list">
-	<li>Fairness</li>
-	<li>Bias</li>
-	<li>Recommender Systems</li>
-	<li>Music Information Retrieval</li>
-	<li>Music Recommendation</li>
-	<li>Human-Computer Interaction</li>
-	<li>Data Mining</li>
-</ul>
 
 <h2>Publications</h2>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
@@ -49,17 +31,5 @@ layout: page
 <li>Trencar el bucle: desequilibri de gènere en els algoritmes de recomanació musicals - <a href="https://www.ondacero.es/emisoras/catalunya/audios-podcast/lideratges/trencar-bucle-desequilibri-genere-els-algoritmes-recomanacio-musicals_20210506609404959fdd32000133a876.html">Onda Cero (Spanish)</a></li>
 <li>Gender gap in the music industry - <a href="https://www.primaverasound.com/en/radio/shows/countdown-by-lotus/countdown-by-lotus-brecha-de-gnero-tecnolgica-ellesmusic">Primavera Sound - Countdown by Lotus (Spanish)</a></li>
   <li>More press articles that cover my work in <a href="https://profiles.impactstory.org/u/0000-0003-1236-2503">impactstory.org</a></li>
-</ul>
-
-<h2>Contact</h2>
-<ul>
-	<li><a href="http://mtg.upf.edu/research/labs/asp-lab">MTG</a></li>
-	<li><a href="mailto:andresferraro@acm.org">andresferraro@acm.org</a></li>
-</ul>
-<ul>	
-	<li><a href="https://www.linkedin.com/in/andres-ferraro/">Linkedin</a></li>
-	<li><a href="https://twitter.com/andrebola_">Twitter</a></li>
-	<li><a href="https://github.com/andrebola">Github</a></li>
-	<li><a href="https://www.researchgate.net/profile/Andres-Ferraro">ResearchGate</a></li>
 </ul>
 

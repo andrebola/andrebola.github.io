@@ -48,12 +48,12 @@ stackoverflow: 611467/andrebola
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
-email: andres.ferraro@upf.edu
+email: andresferraro@acm.org
 
 authors:
     johndoe:
         name: Andres Ferraro
-        bio: "Software Developer and Researcher at Music Technology Group"
+        bio: "Researcher at Music Technology Group"
         external-image: false
         picture: assets/images/profile.png
         twitter: andrebola_ 
@@ -68,7 +68,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-#projects: true
+publications: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
