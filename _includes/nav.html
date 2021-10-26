@@ -35,16 +35,15 @@
                 <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
             </li>
         {% endif %}
-
+         <li class="item">
+               <a class="link" href="/thesis_v_26_10_21.pdf">PhD Thesis</a>
+         </li>
         {% if site.projects == true %}
             {% if page.title != "Projects" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/contact">Contact</a>
                 </li>
             {% endif %}
-         <li class="item">
-               <a class="link" href="/thesis_v_26_10_21.pdf">PhD Thesis</a>
-         </li>
         {% endif %}
     </ul>
 </nav>
