@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Currently, I'm a Postdoctoral Fellow at <a href="https://mila.quebec/">Mila</a> & <a href="https://www.mcgill.ca/">McGill</a>, working on Interdisciplinary Interventions in the Design of Music Recommendation Systems.</p>
+<p>Currently, I'm a Postdoctoral Fellow at <a href="https://mila.quebec/">Mila</a> & <a href="https://www.mcgill.ca/">McGill</a>, working on interdisciplinary interventions in the design of music recommendation systems.</p>
 	
 <p>From 2015 to 2021, I worked at the <a href="http://mtg.upf.edu/research/labs/asp-lab">Music Technology Group</a> of <a href="http://upf.edu">Pompeu Fabra University</a> in Barcelona, Spain. I helped to create <a href="http://dunya.compmusic.upf.edu">Dunya</a> for the project <a href="http://compmusic.upf.edu/">Compmusic</a>. I also worked developing <a href="http://freesound.org">Freesound</a> and research on music recommendation systems in collaboration with <a href="https://www.kakaocorp.com/?lang=en">Kakao</a>.</p>
 
