@@ -14,12 +14,10 @@ layout: page
 <h2>Interests</h2>
 
 <ul class="skill-list">
-	<li>Fairness</li>
-	<li>Bias</li>
 	<li>Recommender Systems</li>
 	<li>Music Information Retrieval</li>
-	<li>Music Recommendation</li>
 	<li>Human-Computer Interaction</li>
-	<li>Data Mining</li>
+	<li>Fairness</li>
+	<li>AI Ethics</li>
 </ul>
 
