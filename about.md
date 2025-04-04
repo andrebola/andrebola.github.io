@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I currently work as a <b>Research Scientist</b> at SiriusXM-Pandora since 2022, working on multi-modal music recommender systems.</p>
+<p>I currently work as a <b>Research Scientist</b> at SiriusXM-Pandora since 2022, focusing on multi-modal music recommender systems.</p>
 
 <p>Previously, I was a Postdoctoral Fellow at <a href="https://mila.quebec/">Mila</a> & <a href="https://www.mcgill.ca/">McGill</a>, working on <a href="https://musicairesearch.wordpress.com/projects/interdisciplinary-interventions/">interdisciplinary interventions in the design of music recommendation systems.</a></p>
 	
