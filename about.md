@@ -4,15 +4,15 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I currently work as a <b>Senior Research Scientist</b> at SiriusXM-Pandora, focusing on multi-modal music recommender systems.</p>
+<p>I am currently a <b>Lead AI Research Scientist at Nowon</b>, where I work on live music version identification and generative AI music attribution. Previously, I worked for three years as a <b>Senior Research Scientist at SiriusXM-Pandora</b>, where I focused on multi-modal recommender systems and music understanding.</p>
 
-<p>Previously, I was a Postdoctoral Fellow at <a href="https://mila.quebec/">Mila</a> & <a href="https://www.mcgill.ca/">McGill</a>, working on <a href="https://musicairesearch.wordpress.com/projects/interdisciplinary-interventions/">interdisciplinary interventions</a> in the design of music recommendation systems.</p>
-	
-<p>From 2015 to 2021, I worked at the <a href="http://mtg.upf.edu/research/labs/asp-lab">Music Technology Group</a> of <a href="http://upf.edu">Pompeu Fabra University</a> in Barcelona, Spain. I helped to create <a href="http://dunya.compmusic.upf.edu">Dunya</a> for the <a href="http://compmusic.upf.edu/">Compmusic</a> project. I also worked on developing <a href="http://freesound.org">Freesound</a> and research on music recommendation systems in collaboration with <a href="https://www.kakaocorp.com/?lang=en">Kakao</a>.</p>
+<p>Before joining Pandora, I was a Postdoctoral Fellow at <a href="https://mila.quebec/">Mila</a> and <a href="https://www.mcgill.ca/">McGill University</a>, where I worked with Fernando Diaz and Georgina Born on the <a href="https://musicairesearch.wordpress.com/projects/interdisciplinary-interventions/">MusAI project</a>, exploring interdisciplinary approaches to the design and study of music recommendation systems.</p>
 
-<p>I completed the Ph.D. in 2021 at the MTG, my thesis is focused on studying the impact of music recommendations from the artists' side –trying to understand how these systems affect the artists and how ethical recommender systems could be more beneficial for everyone.</p>
+<p>From 2015 to 2021, I was a researcher at the <a href="http://mtg.upf.edu/research/labs/asp-lab">Music Technology Group</a> at <a href="http://upf.edu/">Pompeu Fabra University</a> in Barcelona. During that time, I contributed to <a href="http://dunya.compmusic.upf.edu/">Dunya</a> as part of the <a href="http://compmusic.upf.edu/">CompMusic</a> project, worked on the development of <a href="http://freesound.org/">Freesound</a>, and conducted research on music recommendation systems in collaboration with <a href="https://www.kakaocorp.com/?lang=en">Kakao</a>.</p>
 
-<p>In 2018, I completed my master's at Universidad de la Republica (Uruguay). My master thesis is about lyrics representations of Tango music.</p>
+<p>I completed my PhD in 2021 at the Music Technology Group. My research focused on understanding the impact of music recommendation systems from artists' perspectives—examining how these systems affect artists and how recommender systems can be designed to be more ethical and beneficial for everyone.</p>
+
+<p>In 2018, I completed my Master's degree at Universidad de la República in Uruguay, where my thesis focused on representations of Tango lyrics.</p>
 
 <h2>Interests</h2>
 
