@@ -1,9 +1,10 @@
 # main text of home
-name: Andres Ferraro 
+name: Andres Ferraro
+title: Andres Ferraro
 bio: "Lead AI Research Scientist at Nowon AG / UCL-BBC Collaborator"
 
-# twitter summary info
-description: A blog about technology and stuff related
+# used by jekyll-seo-tag for search and social previews
+description: Lead AI Research Scientist at Nowon. Research on music recommender systems, music information retrieval, and responsible AI.
 
 # if it's an external image, update below for true
 # better with square images
@@ -28,10 +29,7 @@ permalink: /:title/
 # analytics-piwik-url: 'piwik.my-host.com'
 # analytics-piwik-id: 1
 
-# if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog] #[blog, project] # only show disqus for posts that have these categories
+disqus: false
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -49,14 +47,6 @@ stackoverflow: 611467/andrebola
 # medium: medium
 # vimeo: myvimeo
 email: andresferraro@acm.org
-
-authors:
-    johndoe:
-        name: Andres Ferraro
-        bio: "Researcher at Music Technology Group"
-        external-image: false
-        picture: assets/images/profile.png
-        twitter: andrebola_ 
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
